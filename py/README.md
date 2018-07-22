@@ -2,7 +2,7 @@
 
 
 
-* cirlulant.py computes the determinant of circulant matrix
+* circulant.py computes the determinant of circulant matrix
 
 $ ./circulant.py 
 Circulant matrix:
