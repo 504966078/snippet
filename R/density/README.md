@@ -9,4 +9,4 @@ The output file contains graphs of the observed and corresponding Gaussian distr
 
 How to use: 
 * Install R
-* R --no-save  < ./main.R 
+* R --no-save  -f ./main.R 
