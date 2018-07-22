@@ -17,7 +17,7 @@ def show(row):
     for n in range(NR): print map(lambda i: row[(i-n)], range(NR))
     print
 
-    print "Eigen values:"
+    print "Eigenvalues:"
     for n in range(NR): print value(n)
     print
 
