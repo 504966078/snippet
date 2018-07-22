@@ -14,7 +14,7 @@ Circulant matrix:
 
 [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 4]
 
-Eigen values:
+Eigenvalues:
 
 (24+0j)
 
