@@ -8,7 +8,7 @@
 
 N - dimension of the vector space
 
-M - tensor rank of the momonials
+M - tensor rank
 
 * gram_eMd4.py computes the determinant of Gram matrix for the Kronecker's basis
 
