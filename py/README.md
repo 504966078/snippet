@@ -14,4 +14,4 @@ M - rank of the momonials
 
 M = 2 * (number of Kronecker's deltas)
 
-Warning: gram_e8d4.py is very slow.
+Warning: gram_e8d4.py is very slow, 26mins.
